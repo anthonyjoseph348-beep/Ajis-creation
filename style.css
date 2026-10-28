@@ -428,10 +428,3 @@ textarea{ min-height: 110px; resize: vertical; }
 .page-content ul{ list-style: disc; padding-left: 1.4em; margin-bottom: 1em; }
 .page-content ul li{ margin-bottom: 0.5em; }
 .updated{ color: var(--text-muted); font-size:0.85rem; margin-bottom: 2em; }
-
-
-/* ---------- Logo image ---------- */
-.brand-logo{ display:block; width:84px; height:84px; }
-.footer-logo{ display:block; width:120px; height:120px; }
-.footer-block .footer-brand{ display:inline-block; }
-@media (max-width: 720px){ .brand-logo{ width:64px; height:64px; } }
